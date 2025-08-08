@@ -1,0 +1,32 @@
+
+body {
+  background-color: powderblue;
+  margin: 0;
+  padding: 0;
+  height: 100vh; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center; 
+  align-items: center;     
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+
+img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+
+h1 {
+  color: orange;
+  margin: 10px 0;
+}
+
+
+p {
+  color: red;
+  margin: 5px 0;
+}
